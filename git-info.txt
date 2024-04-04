@@ -12,4 +12,5 @@
 9. git push -> ulozis branchu na github
 10. ides na github a vytvoris pull request
 - v pull requeste nastavis ktorá brancha sa ma kde mergnut (ta ktoru si vytvoril do main)
+git branch -d <nazov branchu> // vymazanie branchu
 
